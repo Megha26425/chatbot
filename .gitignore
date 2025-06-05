@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints (if you use them)
+.ipynb_checkpoints/
+
+# Python cache
+*.pyc
+*.pyo
+
+# VSCode settings (optional)
+.vscode/
+
+# Streamlit configuration
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+
+# Test & coverage
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Deployment artifacts
+dist/
+build/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# pipenv / poetry
+Pipfile.lock
+poetry.lock
+
+# dotenv
+.env
+.env.*
+
+# Cache
+.cache/
+__pypackages__/
+
+# Others
+*.bak
+*.swp
+
+# Streamlit static uploads
+.streamlit/uploads/

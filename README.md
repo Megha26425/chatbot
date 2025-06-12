@@ -1,17 +1,11 @@
-# chatbot1
 
 Hello!!
 
 Instructions:-
 -- Get your API key, and type it out in the .env file.
--- Run the ython code in terminal.
--- Give your input.
--- Enter quit or exit to exit.
--- History will be stored in hist.txt
-
-
-
-# chatbot2
+-- Run login.py in terminal.
+-- Give your input for sign up/sign in. Confirm mail.
+-- History will be stored in USERNAME.txt (Doesn't matter, it'll be visible too)
 
 # 🤖 MyChatBot: Gemini + DeepSeek Chat App
 
